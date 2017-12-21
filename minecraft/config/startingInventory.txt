@@ -1,0 +1,2 @@
+Enchiridion2:book,1,0,{identifier:"DNS_Techpack"}
+minecraft:stone_axe, 1

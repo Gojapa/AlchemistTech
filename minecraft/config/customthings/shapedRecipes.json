@@ -1,0 +1,10 @@
+{"data":
+    [
+        {
+            "input": [["customthings:item", "DraconicEvolution:wyvernCore", "customthings:item"], 
+                      ["DraconicEvolution:wyvernCore", "customthings:item", "DraconicEvolution:wyvernCore"], 
+                      ["customthings:item", "DraconicEvolution:wyvernCore", "customthings:item"]],
+            "output": "DraconicEvolution:awakenedCore"
+        }
+    ]
+}
